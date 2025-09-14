@@ -16,7 +16,7 @@ I'm Billy, a student at Binus University in faculty of Computer Science taking a
   <tbody>
     <tr>
       <td>
-        <img src="https://img.itch.zone/aW1nLzE5Njc1ODQzLnBuZw==/original/F%2BTTaO.png" style="width:500px;height:300px;">
+        <img src="https://github.com/BSNnoob/BSNnoob/blob/main/DInQgo.png" style="width:500px;height:300px;">
       </td>
       <td>
         <img src="https://via.placeholder.com/500x300?text=Coming+Soon" style="width:500px;height:300px;">
