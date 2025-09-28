@@ -10,16 +10,16 @@ I'm Billy, a student at Binus University in faculty of Computer Science taking a
   <thead>
     <tr>
       <th width="50%"><a href="https://bsnnoob.itch.io/dices-turret">Dice Turret</a></th>
-      <th width="50%"><a href="https://bsnnoob.itch.io/roll-for-treasure">Roll for Treasure</a></th>
+      <th width="50%">Roll for Treasure</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <img src="https://github.com/BSNnoob/BSNnoob/blob/main/DInQgo.png" style="width:500px;height:300px;">
+        <img src="https://img.itch.zone/aW1nLzE5Njc1ODQzLnBuZw==/original/F%2BTTaO.png" style="width:500px;height:300px;">
       </td>
       <td>
-        <img src="https://github.com/BSNnoob/BSNnoob/blob/main/29KDy8.png" style="width:500px;height:300px;">
+        <img src="https://via.placeholder.com/500x300?text=Roll+for+Treasure" style="width:500px;height:300px;">
       </td>
     </tr>
     <tr>
@@ -29,17 +29,15 @@ I'm Billy, a student at Binus University in faculty of Computer Science taking a
         Dice Turret is a tower-defense inspired game where dice mechanics are used for attacking enemies.  
       </td>
       <td valign="text-top">
-        This is a snake and ladder game.
-        <br><br>
-        Roll for Treasure is a snake and ladder game inspired by Pummel Party where player can use power ups.
+        Roll for Treasure is a board-inspired game based on Snake and Ladder mechanics, but with a twist of treasure hunting.  
       </td>
     </tr>
     <tr>
       <td>
-        Project Link: <a href="https://bsnnoob.itch.io/dices-turret">here</a>
+        Project Link: <a href="https://github.com/BSNnoob/diceturret">GitHub</a> | <a href="https://bsnnoob.itch.io/dices-turret">Itch.io</a>
       </td>
       <td>
-        Project Link: <a href="https://bsnnoob.itch.io/roll-for-treasure">here</a>
+        Project Link: <a href="https://github.com/BSNnoob/SnakeLadder">GitHub</a>
       </td>
     </tr>
   </tbody>
