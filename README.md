@@ -26,7 +26,7 @@ I'm Billy, a student at Binus University in the Faculty of Computer Science majo
         <img src="https://github.com/BSNnoob/BSNnoob/blob/main/29KDy8.png?raw=true" style="width:300px;height:200px;">
       </td>
       <td>
-        <img src="https://github.com/BSNnoob/BSNnoob/blob/main/https://github.com/BSNnoob/BSNnoob/blob/main/NclO0%2B.png?raw=true" style="width:300px;height:200px;">
+        <img src="https://github.com/BSNnoob/BSNnoob/blob/main/https://github.com/BSNnoob/BSNnoob/blob/main/NclO0%2B.png?raw=true?raw=true" style="width:300px;height:200px;">
       </td>
     </tr>
     <tr>
