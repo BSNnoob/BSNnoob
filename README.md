@@ -12,10 +12,10 @@ I'm Billy, a student at Binus University in the Faculty of Computer Science majo
 <table width="100%">
   <thead>
     <tr>
-      <th width="33%"><a href="https://bsnnoob.itch.io/dices-turret">Dice Turret</a></th>
-      <th width="33%">Roll for Treasure</th>
-      <th width="33%"><a href="https://bsnnoob.itch.io/interloper">Interloper</a></th>
-      <th width="33%"><a href="https://marcellsutiono.itch.io/last-stand">Last Stand</a></th>
+      <th width="25%"><a href="https://bsnnoob.itch.io/dices-turret">Dice Turret</a></th>
+      <th width="25%">Roll for Treasure</th>
+      <th width="25%"><a href="https://bsnnoob.itch.io/interloper">Interloper</a></th>
+      <th width="25%"><a href="https://marcellsutiono.itch.io/last-stand">Last Stand</a></th>
     </tr>
   </thead>
   <tbody>
