@@ -29,6 +29,9 @@ I'm Billy, a student at Binus University in the Faculty of Computer Science majo
       <td>
         <img src="https://github.com/BSNnoob/BSNnoob/blob/main/Ncl.png?raw=true" style="width:300px;height:200px;">
       </td>
+      <td>
+        <img src="https://github.com/BSNnoob/BSNnoob/blob/main/6SOK0p.png?raw=true" style="width:300px;height:200px;">
+      </td>
     </tr>
     <tr>
       <td valign="text-top">
