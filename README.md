@@ -15,6 +15,7 @@ I'm Billy, a student at Binus University in the Faculty of Computer Science majo
       <th width="33%"><a href="https://bsnnoob.itch.io/dices-turret">Dice Turret</a></th>
       <th width="33%">Roll for Treasure</th>
       <th width="33%"><a href="https://bsnnoob.itch.io/interloper">Interloper</a></th>
+      <th width="33%"><a href="https://marcellsutiono.itch.io/last-stand">Last Stand</a></th>
     </tr>
   </thead>
   <tbody>
@@ -41,6 +42,9 @@ I'm Billy, a student at Binus University in the Faculty of Computer Science majo
       <td valign="text-top">
         <b>Interloper</b> is a puzzle‑platformer where players strategically place tetrominoes to create a path upward. Build the right structure, climb it, and reach the top.
       </td>
+      <td valign="text-top">
+        <b>Last Stand</b> is a tower-defense game where players strategically place towers to kill all the enemies. Play as Isaac Newton with only three available towers. Each tower has a unique ability, use them strategically.
+      </td>
     </tr>
     <tr>
       <td>
@@ -51,6 +55,9 @@ I'm Billy, a student at Binus University in the Faculty of Computer Science majo
       </td>
       <td>
         Project Link: <a href="https://github.com/BSNnoob/TetrisPlatformer">GitHub</a> | <a href="https://bsnnoob.itch.io/interloper">Itch.io</a>
+      </td>
+      <td>
+        Project Link: <a href="https://github.com/MarcellSutiono/Last-Stand">Github</a> | <a href="https://marcellsutiono.itch.io/last-stand">Itch.io</a>
       </td>
     </tr>
   </tbody>
