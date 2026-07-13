@@ -6,6 +6,7 @@ I'm Billy, a student at Binus University in the Faculty of Computer Science majo
 
 * **Languages:** C#, C, Svelte 4, Typescript
 * **Game Engine:** Unity, GameMaker Studio 2
+* **Version Control:** Git, GitHub
 
 # My Projects
 
